@@ -1,0 +1,1 @@
+select concat (hotel_name, is a hotel_type, "hotel") as HOTEL INFO from hotel_details order by HOTEL INFO desc;
